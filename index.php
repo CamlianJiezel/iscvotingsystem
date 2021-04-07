@@ -50,6 +50,6 @@
 </body>
 
 <footer>
-<p><center><b>NOTE:</b> Log in using the Voters ID and password emailed to your gmail account.</p></center>
+<p><center><b>NOTE:</b> Log-in using the Voters ID and password emailed to your gmail account.</p></center>
 </div>
 </html>
