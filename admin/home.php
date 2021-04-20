@@ -117,7 +117,7 @@
                 echo "<h3>".$query->num_rows."</h3>";
               ?>
 
-              <p>Voters Voted</p>
+              <p>Votes</p>
             </div>
             <div class="icon">
               <i class="fa fa-edit"></i>
